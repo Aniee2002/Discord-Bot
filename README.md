@@ -1,6 +1,6 @@
 # Discord-Bot
 
-A Discord bot that provides inspirational quotes and roasting capabilities.
+A Discord bot that provides inspirational quotes and has roasting capabilities.
 
 ## Features
 
